@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am Fatiha Zannat 👋
 
 <!--
 **FatihaZannat/FatihaZannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Web Developer
+M.A Depertment of Bangla, University of Rajshahi
